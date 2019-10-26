@@ -1,0 +1,1 @@
+School project. Works with django.-
